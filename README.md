@@ -27,6 +27,11 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    php -S localhost:8000 -t public
    ```
+5. API
+   ```sh
+   [GET]: products/list
+   [Param]: none
+   ``` 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
